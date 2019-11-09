@@ -168,9 +168,9 @@ The easiest way to build a color pallete is by sampling colors from an existing 
 
 ## Photoshop
 
-##移动端利器（iOS为主）
+### 移动端利器（iOS为主）
 
-+ Design Hunt 有点像是为设计师量身定做的 Feedly。整合了 Dribbble, Wired, Fast Company, Vimeo 等众多大咖小咖渠道的信息，以 News, Article, Inspiration, Typography(版式设计), Apple, iOS App, Product, Architecture 等关键词进行分类。
++ [Design Hunt](https://www.design-hunt.com/) 有点像是为设计师量身定做的 Feedly。整合了 Dribbble, Wired, Fast Company, Vimeo 等众多大咖小咖渠道的信息，以 News, Article, Inspiration, Typography(版式设计), Apple, iOS App, Product, Architecture 等关键词进行分类。
 
 + ArtStation － CG 大触聚集地
 
@@ -301,13 +301,13 @@ The easiest way to build a color pallete is by sampling colors from an existing 
 + 《商业字体设计》(方茜)（一定要看！！）
 + 《好字体》(向玫玫)
 + 《文字设计的原理》([日]伊达千代，内藤孝彦)
-+ 排版
+### 排版
 + 《栅格排版法》
 + 《版面设计的原理》([日]伊达千代，内藤孝彦)
 + 《超越平凡的平面设计 版式设计原理与应用》([美]麦克韦德（John McWade）
 + 《形式感+：网页视觉设计创意拓展与快速表现》(晋小彦)（重点推荐）
 + 《在你身边，为你设计：腾讯的用户体验设计之道》
-+ 官方设计指南
+### 官方设计指南
 + iOS Human Interface Guidelines：Designing for iOS 7★
 + iPhone的设计指南最为经典，当时认真翻译完设计指南，学习别人的思考方式，对我的设计和分析思路有重要的影响
 + Safari Web Content Guide
